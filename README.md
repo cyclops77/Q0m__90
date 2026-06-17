@@ -1,12 +1,78 @@
-# 📚 Dokumentasi Proyek Internal
+# 📚 Dokumentasi Repositori Internal-SB
 
-Selamat datang di pusat dokumentasi arsitektur dan fitur aplikasi. Gunakan daftar isi di bawah ini untuk menavigasi kode sumber dan konfigurasi sistem.
+Dokumentasi ini di-generate secara otomatis untuk melacak arsitektur fitur, endpoint, path file, dan konfigurasi.
 
-## 📑 Daftar Isi Utama
+---
 
-### 🔐 1. Modul Autentikasi
-* [🔑 Fitur: Login User](docs/01-autentikasi/login.md) - Pengisian token, validasi, dan pembatasan rate limit.
-* [📝 Fitur: Register Akun](docs/01-autentikasi/register.md) - Alur pendaftaran user baru dan verifikasi email.
+## 📁 Modul: Autentikasi
 
-### 💸 2. Modul Transaksi
-* [📊 Fitur: Mutasi Uang](docs/02-transaksi/mutasi.md) - Pencatatan dana masuk dan dana keluar.
+### 🔑 Sub-Fitur: Lgin
+Hahahah ini jancokkk
+
+| Atribut | Detail |
+| :--- | :--- |
+| **Endpoint URL** | `Post Hahaha/ini/api` |
+| **Source Path** | `juiju.dart` |
+
+
+<details>
+<summary>📸 Lihat Screenshot Antarmuka</summary>
+
+![Screenshot](http://127.0.0.1:8000/storage/screenshots/PJKuaZbb9UZExfjJQmkFxoGIDB71O4rUZL2DfSrG.png)
+</details>
+
+---
+
+## 📁 Modul: 123123
+
+### 🔑 Sub-Fitur: 345345
+sdfsdf
+
+| Atribut | Detail |
+| :--- | :--- |
+| **Endpoint URL** | `213454y6` |
+| **Source Path** | `ejjeje` |
+
+
+<details>
+<summary>📸 Lihat Screenshot Antarmuka</summary>
+
+![Screenshot](http://127.0.0.1:8000/storage/screenshots/evOsfOsu6SQienf97oJ49KJCHIHu57YMAbEl0Nj7.png)
+</details>
+
+---
+
+### 🔑 Sub-Fitur: 345345
+sdfsdf
+
+| Atribut | Detail |
+| :--- | :--- |
+| **Endpoint URL** | `213454y6` |
+| **Source Path** | `ejjeje` |
+
+
+<details>
+<summary>📸 Lihat Screenshot Antarmuka</summary>
+
+![Screenshot](http://127.0.0.1:8000/storage/screenshots/RUi2oEWliZsoG8xYvVY9ZaAncgNGv9QnYD75E8vb.png)
+</details>
+
+---
+
+### 🔑 Sub-Fitur: 345345
+sdfsdf
+
+| Atribut | Detail |
+| :--- | :--- |
+| **Endpoint URL** | `213454y6` |
+| **Source Path** | `ejjeje` |
+
+
+<details>
+<summary>📸 Lihat Screenshot Antarmuka</summary>
+
+![Screenshot](http://127.0.0.1:8000/storage/screenshots/aNOk6MwhOoAynDfUG2Hh019lGUd7E4sEh0UoNVmF.png)
+</details>
+
+---
+
